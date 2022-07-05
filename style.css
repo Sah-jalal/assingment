@@ -1,0 +1,165 @@
+body{
+   margin: 0;
+   padding: 0;
+}
+.top-section{
+    background-image: url(images/donation3.jpg);
+    background-size: 80rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    
+}
+/* .mein-headding {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 35px;
+    color: rgb(234, 0, 255);
+    font-size: 50px;
+    width: 50%;
+    padding-left: 24rem;
+} */
+
+.main-headding{
+    width: 60%;
+    height: 50%;
+    padding: 10% 20%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.main-headding h1{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+/* ------frist-section-complite--------- */
+
+
+.donate-today{
+    width: 60%;
+    height: auto;
+    margin: 5% 20% 5% 20%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.281);
+}
+.up-div{
+    text-align: center;
+    
+}
+.lower-div{
+    display: flex;
+}
+.lower-div h2 {
+    border: 2px solid gray;
+    padding: 34px;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+
+/* -------section-two-complite--------- */
+
+
+.plan{
+    text-align: center;
+}
+.plan h1{
+    color: orange;
+}
+.main{
+    width: 90%;
+    height: auto;
+    display: flex;
+    margin-left: 5%;
+}
+.chiled{
+    width: 30%;
+    height: 300px;
+    margin-left: 3%;
+    background-color: rgba(0, 255, 255, 0.247);  
+    border-radius: 10px;  
+}
+.img{
+    width: 100%;
+    height: auto;
+    float: top;
+}
+.chiled-2{
+    text-align: center;
+}
+
+/* ---------------section-three-complite----------- */
+
+
+.card{
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    display: flex;
+    background-color: rgba(0, 255, 255, 0.274);
+}
+.head{
+    text-align: center;
+    color: tomato;
+}
+.card-chiked{
+    width: 20%;
+    height: auto;
+    background-color: beige;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.card-img{
+    width: 100%;
+    height: 300px;
+}
+.card-img img{
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+}
+.text{
+    background-color: beige;
+    text-align: center;
+}
+
+.updates{
+    width: 60%;
+    height: auto;
+    margin-left: 20%;
+}
+.write{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    float: top;
+}
+.from{
+    background-color: gray;
+    display: flex;
+    height: 150px;
+}
+.input{
+    margin: 50px 0px 50px 226px;
+    border-radius: 10px;
+}
+.button{
+    margin: 50px 150px 50px -3px;
+    border-radius: 10px;
+    padding: 18px;
+    background: rgba(35, 235, 35, 0.616);
+    color: white;
+    font-style: bold;
+}
+
+
+/* --------fotter-section-------- */
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(3, 6, 44);
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
