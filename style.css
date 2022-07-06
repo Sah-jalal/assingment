@@ -136,7 +136,7 @@ body{
     float: top;
 }
 .from{
-    background-color: gray;
+    background-color: rgba(106, 224, 195, 0.61);
     display: flex;
     height: 150px;
 }
